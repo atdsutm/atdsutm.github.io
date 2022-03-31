@@ -60,14 +60,13 @@
 }
 
 .custom .bumper{
-    width: 179px;
-    height: 70px;
-    background: url(bumper.png);
+    width: 177px;
+    height: 68px;
 
 }
 
 .custom .bumper.pressed {
-    background-position: 178px;
+    background: url(bumper.png);
 }
 
 .custom .bumper.left{
