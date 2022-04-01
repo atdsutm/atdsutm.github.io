@@ -23,15 +23,17 @@
     top: 0px;
 }
 
+.custom.disconnected .triggers {
+    display: none;
+}
+
 .custom .trigger {/* These are the actual triggers themselves */
     width:100px;
     height:91px;
-    background: url(trigger.png);
 }
 
 .custom .trigger.pressed {
-    background-position: 80px;
-    margin-right: 2px;
+    background: url(trigger.png);
 }
 
 .custom .trigger.left {
@@ -41,7 +43,6 @@
 }
 
 .custom .trigger.right {
-    transform: scaleX(-1);
     float: right;
     margin-right: 1px;
     margin-top; 1px;
