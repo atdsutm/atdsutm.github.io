@@ -33,26 +33,22 @@
 }
 
 .custom .trigger.pressed {
-    background: url(trigger.png);
+    background: url(triggers.png);
 }
 
 .custom .trigger.left {
     float: left;
-    margin-left: 1px;
-    margin-top: 1px;
 }
 
 .custom .trigger.right {
     float: right;
-    margin-right: 1px;
-    margin-top; 1px;
 }
 
 .custom .bumpers {
     width: 618px;
     height: 72px;
-    left: 125px;
-    top:  50px;
+    left: 110px;
+    top:  100px;
     position: absolute;
 }
 
