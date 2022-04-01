@@ -42,7 +42,8 @@
 
 .custom .trigger.right {
     float: right;
-    -webkit-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+    background-position-x: -100px;
 }
 
 .custom .bumpers {
@@ -72,5 +73,5 @@
 }
 .custom .bumper.right{
     float: right;
-    background-position-x: -100px;
+    transform: rotateY(180deg);
 }
