@@ -34,7 +34,6 @@
 }
 
 .custom .trigger.pressed {
-    background: url(triggers.png);
 }
 
 .custom .trigger.left {
@@ -43,6 +42,7 @@
 
 .custom .trigger.right {
     float: right;
+    transform: rotateY(180deg);
 }
 
 .custom .bumpers {
