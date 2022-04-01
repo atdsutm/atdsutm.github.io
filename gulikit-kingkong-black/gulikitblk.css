@@ -74,3 +74,37 @@
     float: right;
     transform: rotateY(180deg);
 }
+
+
+.custom .sticks {
+    position: absolute;
+    margin-top: 244px;
+    width: 404px;
+    margin-left: 240px;
+    height: 96px;
+}
+
+.custom.disconnected .sticks {
+    display: none;
+}
+
+.custom .stick {
+    position: absolute;
+    background: url(stick.png);
+    height: 95px;
+    width: 98px;
+}
+.custom .stick.pressed.left {
+    background-position-x: -105px;
+}
+.custom .stick.pressed.right{
+    background-position-x: -105px;
+}
+.custom .stick.left{
+    left: 8px;
+}
+	
+.custom .stick.right{
+    top: calc(100% - 95px);
+    left: calc(100% - 128px);
+}
