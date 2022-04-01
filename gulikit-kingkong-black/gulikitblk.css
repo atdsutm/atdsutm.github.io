@@ -30,7 +30,7 @@
 .custom .trigger {/* These are the actual triggers themselves */
     width:100px;
     height:91px;
-    background: url(triggers.png);
+    background: url(trigger.png);
 }
 
 .custom .trigger.pressed {
