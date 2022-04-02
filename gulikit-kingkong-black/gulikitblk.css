@@ -105,8 +105,8 @@
 }
 	
 .custom .stick.right{
-    top: calc(100% - 1px);
-    left: calc(100% - 1px);
+    top: calc(100% - 86px);
+    left: calc(100% - 86px);
 }
 
 /* Dpad possitioning and sizing */
