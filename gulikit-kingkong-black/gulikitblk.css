@@ -112,10 +112,10 @@
 /* Dpad possitioning and sizing */
 .custom .dpad{
     position: absolute;
-    width: 127px;
-    height: 127px;
-    top: 110px;
-    left: 144px;
+    width: 102px;
+    height: 102px;
+    top: 318px;
+    left: 232px;
 }
 
 .custom.disconnected .dpad {
@@ -131,22 +131,21 @@
     position: absolute;
 }
 .custom .face.up, .custom .face.down{
-    width: 42px;
-    height: 49px;
+    width: 32px;
+    height: 32px;
 }
 .custom .face.left, .custom .face.right{
-    width: 49px;
-    height: 43px;
+    width: 32px;
+    height: 32px;
 }
 .custom .face.up{
-    top: 2px;
-    background-position: 322px 0px;
-    left: 42px;
+    background-position-left: -32px;
+    left: 34px;
 }
 .custom .face.down{
-    left: 42px;
+    left: 32px;
     top: 79px;
-    background-position: 228px 0;
+    background-position-left: -96px;
 }
 
 .custom .face.left{
