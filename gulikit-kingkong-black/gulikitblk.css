@@ -200,3 +200,27 @@
     background-position-x: -150px;
     left: 55px;
 }
+
+.custom .back, .custom .start {
+    background: url(start.png);
+    width: 172px;
+    height: 29px;
+    opacity: 0;
+}
+
+.custom .back.pressed, .custom .start.pressed {
+    /* background-position-y: -21px; */
+    /* margin-top: 2px; */
+    opacity: 1;
+}
+
+.custom .back {
+    float: left;
+    /* width: 28px; */
+}
+
+.custom .start {
+    float: right;
+    /* width: 28px; */
+    background-position: 28px 0;
+}
