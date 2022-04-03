@@ -186,7 +186,7 @@ position: absolute;
 .custom .a{
     background-position:
     top: 100px;
-    left: 50px;
+    left: 55px;
 }
 .custom .b{
     background-position: -50px;
@@ -199,5 +199,5 @@ position: absolute;
 }
 .custom .y{
     background-position: -150px;
-    left: 50px;
+    left: 55px;
 }
