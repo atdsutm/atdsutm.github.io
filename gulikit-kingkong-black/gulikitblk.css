@@ -175,7 +175,7 @@
 
 /* base class used to simplify the sprite mapping */
 .custom .button{
-position: absolute;
+    position: absolute;
     width: 50px;
     height: 50px;
     background: url(face.png);
@@ -184,7 +184,7 @@ position: absolute;
     background-position-y: -50px;
 }
 .custom .a{
-    background-position:
+    background-position;
     top: 100px;
     left: 55px;
 }
