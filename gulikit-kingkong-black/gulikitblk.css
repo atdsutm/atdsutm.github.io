@@ -130,7 +130,7 @@
     position: absolute;
 }
 .custom .face.up, .custom .face.down{
-    width: 32px;
+    width: 32.1px;
     height: 32px;
 }
 .custom .face.left, .custom .face.right{
