@@ -201,7 +201,7 @@
     left: 55px;
 }
 
-.ds4 .arrows {
+.custom .arrows {
     position: absolute;
     width: 173px;
     height: 30px;
@@ -209,7 +209,7 @@
     left: 282px;
 }
 
-.ds4 .back {
+.custom .back {
     background: url(start.png);
     width: 33px;
     height: 12px;
@@ -217,7 +217,7 @@
     float: left;
 }
 
-.ds4 .start {
+.custom .start {
     background: url(start.png);
     width: 29px;
     height: 29px;
@@ -225,6 +225,6 @@
     float: right;
     background-position: 33px 0;
 }
-.ds4 .back.pressed, .ds4 .start.pressed {
+.custom .back.pressed, .ds4 .start.pressed {
     opacity: 1;
 }
