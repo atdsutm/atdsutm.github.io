@@ -114,7 +114,7 @@
     position: absolute;
     width: 102px;
     height: 102px;
-    top: 318px;
+    top: 319px;
     left: 232px;
 }
 
@@ -144,24 +144,23 @@
 }
 .custom .face.up{
     background-position: -32px;
-    left: 34px;
+    left: 35px;
 }
 .custom .face.down{
+    background-position: -96px;
     left: 32px;
     top: 79px;
-    background-position: -96px;
 }
 
 .custom .face.left{
     background-position: 0px 0;
-    width: 47px;
-    height: 42px;
-    top: 41px;
+    top: 34px;
 }
 
 .custom .face.right{
+    background-position: -64px 0;
     top: 41px;
     right: 0px;
-    background-position: -64px 0;
+
 }
 
