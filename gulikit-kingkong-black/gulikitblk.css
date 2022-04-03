@@ -181,10 +181,10 @@ position: absolute;
     background: url(face.png);
 }
 .custom .button.pressed {
-    background-position-y: -57px;
+    background-position-y: -50px;
 }
 .custom .a{
-    background-position: 0 0;
+    background-position: 0 50px;
     top: 100px;
     left: 50px;
 }
