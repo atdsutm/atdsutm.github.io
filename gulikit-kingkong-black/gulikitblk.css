@@ -184,20 +184,19 @@
     background-position-y: -50px;
 }
 .custom .a{
-    background-position;
     top: 100px;
     left: 55px;
 }
 .custom .b{
-    background-position-x: -50px;
+    background-position: -50px;
     top: 50px;
     right: 0px;
 }
 .custom .x{
-    background-position-x: -100px;
+    background-position: -100px;
     top: 50px;
 }
 .custom .y{
-    background-position-x: -150px;
+    background-position: -150px;
     left: 55px;
 }
