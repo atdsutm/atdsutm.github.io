@@ -225,6 +225,6 @@
     float: right;
     background-position: 33px 0;
 }
-.custom .back.pressed, .ds4 .start.pressed {
+.custom .back.pressed, .custom .start.pressed {
     opacity: 1;
 }
