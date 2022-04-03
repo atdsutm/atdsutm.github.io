@@ -188,15 +188,15 @@
     left: 55px;
 }
 .custom .b{
-    background-position: -50px;
+    background-position-x: -50px;
     top: 50px;
     right: 0px;
 }
 .custom .x{
-    background-position: -100px;
+    background-position-x: -100px;
     top: 50px;
 }
 .custom .y{
-    background-position: -150px;
+    background-position-x: -150px;
     left: 55px;
 }
