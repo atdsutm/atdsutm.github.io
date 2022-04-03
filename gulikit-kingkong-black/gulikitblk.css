@@ -184,7 +184,7 @@
     background-position-y: -50px;
 }
 .custom .a{
-    top: 100px;
+    top: 101px;
     left: 55px;
 }
 .custom .b{
@@ -194,9 +194,9 @@
 }
 .custom .x{
     background-position-x: -100px;
-    top: 50.5px;
+    top: 50px;
 }
 .custom .y{
     background-position-x: -150px;
-    left: 54.5px;
+    left: 55px;
 }
