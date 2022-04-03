@@ -206,12 +206,12 @@
     width: 173px;
     height: 30px;
     top: 163px;
-    left: 282px;
+    left: 283px;
 }
 
 .custom .back {
     background: url(start.png);
-    width: 33px;
+    width: 34px;
     height: 29px;
     opacity: 0;
     float: left;
@@ -223,7 +223,7 @@
     height: 29px;
     opacity: 0;
     float: right;
-    background-position: 33px 0;
+    background-position: 32px 0;
 }
 .custom .back.pressed, .custom .start.pressed {
     opacity: 1;
