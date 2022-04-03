@@ -223,7 +223,7 @@
     height: 29px;
     opacity: 0;
     float: right;
-    background-position: 32px 0;
+    background-position: 31.5px 0;
 }
 .custom .back.pressed, .custom .start.pressed {
     opacity: 1;
