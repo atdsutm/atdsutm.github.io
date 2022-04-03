@@ -127,6 +127,7 @@
 }
 
 .custom .face{
+    background: url(dpad.png);
     position: absolute;
 }
 .custom .face.up, .custom .face.down{
@@ -160,5 +161,5 @@
     background-position: -92px 0;
 }
 .custom .face.pressed{
-    background: url(dpad.png);
+
 }
