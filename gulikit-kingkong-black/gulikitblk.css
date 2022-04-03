@@ -115,7 +115,7 @@
     width: 102px;
     height: 102px;
     top: 319px;
-    left: 232.448px;
+    left: 232.4485px;
 }
 
 .custom.disconnected .dpad {
@@ -143,8 +143,8 @@
 
 }
 .custom .face.up{
-    background-position: -32px;
-    left: 35px;
+    background-position: -31.5px;
+    left: 35.5px;
 }
 .custom .face.down{
     background-position: -96px;
