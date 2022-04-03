@@ -185,19 +185,19 @@ position: absolute;
 }
 .custom .a{
     background-position: 0 0;
-    top: 105px;
+    top: 100px;
     left: 50px;
 }
 .custom .b{
-    background-position: -50px 0;
+    background-position: -50px 50px;
     top: 50px;
     right: 0px;
 }
 .custom .x{
-    background-position: -100px 0;
+    background-position: -100px 50px;
     top: 50px;
 }
 .custom .y{
-    background-position: -150px 0;
+    background-position: -150px 50px;
     left: 50px;
 }
