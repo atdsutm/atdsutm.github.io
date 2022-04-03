@@ -130,12 +130,12 @@
     position: absolute;
 }
 .custom .face.up, .custom .face.down{
-    width: 31px;
-    height: 31px;
+    width: 32px;
+    height: 32px;
 }
 .custom .face.left, .custom .face.right{
-    width: 31px;
-    height: 31px;
+    width: 32px;
+    height: 32px;
 }
 
 .custom .face.pressed{
@@ -143,11 +143,11 @@
 
 }
 .custom .face.up{
-    background-position: -31px;
+    background-position: -32px;
     left: 35px;
 }
 .custom .face.down{
-    background-position: -93px;
+    background-position: -96px;
     left: 35px;
     top: 70px;
 }
@@ -158,7 +158,7 @@
 }
 
 .custom .face.right{
-    background-position: -62px 0;
+    background-position: -64px 0;
     top: 35px;
     right: 0px;
 
