@@ -122,10 +122,6 @@
     display: none;
 }
 
-.custom.disconnected .abxy  {
-    display: none;
-}
-
 .custom .face{
     position: absolute;
 }
@@ -164,3 +160,45 @@
 
 }
 
+/* Positioning and size of the container for the face buttons */
+.custom .abxy{
+    position: absolute;
+    width: 157px;
+    height: 158px;
+    top: 95px;
+    left: 587px;
+}
+
+.custom.disconnected .abxy  {
+    display: none;
+}
+
+/* base class used to simplify the sprite mapping */
+.custom .button{
+position: absolute;
+    width: 56px;
+    height: 56px;
+    background: url(face.svgz);
+    // background: url(ps3-assets/face-buttons.png);
+}
+.custom .button.pressed {
+    background-position-y: -57px;
+}
+.custom .a{
+    background-position: 0 0;
+    top: 105px;
+    left: 50px;
+}
+.custom .b{
+    background-position: -56px 0;
+    top: 50px;
+    right: 0px;
+}
+.custom .x{
+    background-position: -113px 0;
+    top: 50px;
+}
+.custom .y{
+    background-position: -168px 0;
+    left: 50px;
+}
