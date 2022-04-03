@@ -138,7 +138,7 @@
     height: 32px;
 }
 .custom .face.up{
-    background-position-left: -32px;
+    background-position: -32px;
     left: 34px;
 }
 .custom .face.down{
