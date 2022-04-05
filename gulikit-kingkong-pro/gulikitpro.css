@@ -60,11 +60,12 @@
 .custom .bumper{
     width: 174px;
     height: 68px;
+    background: url(bumper.png);
 
 }
 
 .custom .bumper.pressed {
-    background: url(bumper.png);
+    background-position-y: -68px;
 }
 
 .custom .bumper.left{
