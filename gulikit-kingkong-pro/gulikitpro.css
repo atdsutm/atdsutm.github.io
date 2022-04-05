@@ -16,10 +16,10 @@
 }
 
 .custom .triggers { /* The triggers are housed inside a div, so this sizes the div properly and positions it */
-    width: 500.5px;
+    width: 501px;
     height: 91px;
     position: absolute;
-    left: 128.5px;
+    left: 128px;
     top: 0px;
 }
 
