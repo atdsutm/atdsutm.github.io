@@ -8,6 +8,12 @@ Here contains my work on any stream related content that I've made.
 
 [Youtube](https://www.youtube.com/user/atdsutm)
 
+[Devianart](https://www.deviantart.com/atdsutm/about)
+
+### Designs
+
+## GuliKit Kingkong Series
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
