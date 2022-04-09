@@ -12,7 +12,7 @@ Here contains my work on any stream related content that I've made.
 
 ### Designs
 
-## GuliKit Kingkong Series
+### GuliKit Kingkong Series
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
