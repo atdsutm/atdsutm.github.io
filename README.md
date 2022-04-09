@@ -5,6 +5,7 @@ Here contains my work on any stream related content that I've made.
 ### Visit me here:
 
 [Twitch](https://www.twitch.tv/atdsutm)
+
 [Youtube](https://www.youtube.com/user/atdsutm)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
