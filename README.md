@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to atdsutm's github page!
 
-You can use the [editor on GitHub](https://github.com/atdsutm/atdsutm.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here contains my work on any stream related content that I've made.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Visit me here:
 
-### Markdown
+[Twitch] (https://www.twitch.tv/atdsutm)
+[Youtube] (https://www.youtube.com/user/atdsutm)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
