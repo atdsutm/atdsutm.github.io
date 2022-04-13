@@ -1,5 +1,5 @@
 .controller.custom {
-    background: url(base.svgz);
+    background: url(base.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -7,11 +7,11 @@
 }
 
 .custom.white {
-    background: url(base-white.svgz);
+    background: url(base-white.png);
 }
 
 .custom.disconnected {
-    background: url(disconnected.svgz);
+    background: url(disconnected.png);
 }
 
 .custom.disconnected div {
@@ -28,7 +28,7 @@
 .custom .trigger {
     width: 88px;
     height: 121px;
-    background: url(trigger.svgz);
+    background: url(trigger.png);
     opacity: 0;
 }
 
@@ -45,7 +45,7 @@
 .custom .bumper {
     width: 170px;
     height: 61px;
-    background: url(bumper.svgz);
+    background: url(bumper.png);
     opacity: 0;
 }
 
@@ -73,7 +73,7 @@
 
 .custom .quadrant {
     position: absolute;
-    background: url(quadrant.svgz);
+    background: url(quadrant.png);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -110,7 +110,7 @@
 }
 
 .custom .back, .custom .start {
-    background: url(start-select.svgz);
+    background: url(start-select.png);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -139,7 +139,7 @@
 
 .custom .button {
     position: absolute;
-    background: url(abxy.svgz);
+    background: url(abxy.png);
     width: 48px;
     height: 48px;
 }
@@ -184,7 +184,7 @@
 
 .custom .stick {
     position: absolute;
-    background: url(stick.svgz);
+    background: url(stick.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -213,7 +213,7 @@
 }
 
 .custom .face {
-    background: url(dpad.svgz);
+    background: url(dpad.png);
     position: absolute;
     opacity: 0;
 }
