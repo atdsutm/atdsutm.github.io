@@ -1,8 +1,8 @@
-## Welcome to atdsutm's github page!
+# Welcome to atdsutm's github page!
 
 Here contains my work on any stream related content that I've made.
 
-### Visit me here:
+## Visit me here:
 
 [Twitch](https://www.twitch.tv/atdsutm)
 
@@ -10,11 +10,46 @@ Here contains my work on any stream related content that I've made.
 
 [Devianart](https://www.deviantart.com/atdsutm/about)
 
-### Designs
+## Designs
 
 ### GuliKit Kingkong Series
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Made a custom controller css layout for gamepadviewer. Please use the Xbox One controller template.
+The design has 4 basic colors of blue, pink, black and pro version.
+
+
+![Image](src)
+
+
+How to use:
+1. Connect your controller and visit [Link](url).
+2. Activate your controller and press any key to, a drop down above should appear above and set it to "Xbox One and Player One"
+3. Once the controller appears, go to generate URL on the left side.
+4. Place the custom css link on the empty space below to put the custom design. 
+5. Copy the new "generate link" afterwards and use it on OBS's "Browser Source" function.
+
+Custom CSS links
+
+Black:
+
+```markdown
+https://atdsutm.github.io/gulikit-kingkong-black/gulikitkkblk.css
+```
+Blue:
+
+```markdown
+https://atdsutm.github.io/gulikit-kingkong-black/gulikitkkblue.css
+```
+Pink:
+
+```markdown
+https://atdsutm.github.io/gulikit-kingkong-black/gulikitkkpink.css
+```
+Pro:
+
+```markdown
+https://atdsutm.github.io/gulikit-kingkong-black/gulikitkkpro.css
+```
 
 ```markdown
 Syntax highlighted code block
