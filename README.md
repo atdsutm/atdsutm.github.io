@@ -18,15 +18,15 @@ Made a custom controller css layout for gamepadviewer. Please use the Xbox One c
 The design has 4 basic colors of blue, pink, black and pro version.
 
 
-![Image](https://atdsutm.github.io/2022-05-26%2021-39-51.webm)
+![Preview](https://atdsutm.github.io/Controller%20Preview.gif)
+
 
 
 How to use:
-1. Connect your controller and visit [Link](url).
+1. Connect your controller and visit [Link](https://gamepadviewer.com/#).
 2. Activate your controller and press any key to, a drop down above should appear above and set it to "Xbox One and Player One"
 3. Once the controller appears, go to generate URL on the left side.
-4. Place the custom css link on the empty space below to put the custom design. 
-5. Copy the new "generate link" afterwards and use it on OBS's "Browser Source" function.
+
 
 Custom CSS links
 
@@ -50,6 +50,9 @@ Pro:
 ```markdown
 https://atdsutm.github.io/gulikit-kingkong-pro/gulikitkkpro.css
 ```
+4. Place the custom css link on the empty space below to put the custom design. 
+5. Copy the new "generate link" afterwards and use it on OBS's "Browser Source" function.
+
 
 ```markdown
 Syntax highlighted code block
