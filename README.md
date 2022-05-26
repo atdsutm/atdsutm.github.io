@@ -38,17 +38,17 @@ https://atdsutm.github.io/gulikit-kingkong-black/gulikitkkblk.css
 Blue:
 
 ```markdown
-https://atdsutm.github.io/gulikit-kingkong-black/gulikitkkblue.css
+https://atdsutm.github.io/gulikit-kingkong-blue/gulikitkkblue.css
 ```
 Pink:
 
 ```markdown
-https://atdsutm.github.io/gulikit-kingkong-black/gulikitkkpink.css
+https://atdsutm.github.io/gulikit-kingkong-pink/gulikitkkpink.css
 ```
 Pro:
 
 ```markdown
-https://atdsutm.github.io/gulikit-kingkong-black/gulikitkkpro.css
+https://atdsutm.github.io/gulikit-kingkong-pro/gulikitkkpro.css
 ```
 
 ```markdown
