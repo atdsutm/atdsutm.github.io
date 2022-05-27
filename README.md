@@ -2,14 +2,6 @@
 
 Here contains my work on any stream related content that I've made.
 
-## Visit me here:
-
-[Twitch](https://www.twitch.tv/atdsutm)
-
-[Youtube](https://www.youtube.com/user/atdsutm)
-
-[Devianart](https://www.deviantart.com/atdsutm/about)
-
 ## Designs
 
 ### GuliKit Kingkong Series
@@ -57,6 +49,13 @@ White
 Coming soon...
 ```
 
+## Visit me here:
+
+[Twitch](https://www.twitch.tv/atdsutm)
+
+[Youtube](https://www.youtube.com/user/atdsutm)
+
+[Devianart](https://www.deviantart.com/atdsutm/about)
 
 
 <!-- 
