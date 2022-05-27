@@ -29,7 +29,7 @@ Credit to Monica from Gulikit for sending the vector file.
 2. Activate your controller and press any input and a drop down option should appear above. Set them it to "Xbox One and Player One". Playstation 4 can also be used.
 3. Once the controller appears, go to generate URL on the left side. 
 4. To apply the design. Place a custom css link of your choosing below and place the custom CSS URL. The custom design should override the previous controller, but you won't see it change here.
-
+5. After placing the custom css link, the new "generate link" should change. Use it on OBS's "Browser Source" function.
 Custom CSS links
 
 Black:
@@ -57,7 +57,7 @@ White
 Coming soon...
 ```
 
-5. After placing the custom css link, the new "generate link" should change. Use it on OBS's "Browser Source" function.
+
 
 <!-- 
 ```markdown
