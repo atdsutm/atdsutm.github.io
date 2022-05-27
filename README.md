@@ -61,7 +61,7 @@ Coming soon...
 
 5. After placing the custom css link, the new "generate link" should change. Use it on OBS's "Browser Source" function.
 
-
+<!-- 
 ```markdown
 Syntax highlighted code block
 
@@ -89,3 +89,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ -->
