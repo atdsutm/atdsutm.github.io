@@ -14,44 +14,52 @@ Here contains my work on any stream related content that I've made.
 
 ### GuliKit Kingkong Series
 
-Made a custom controller css layout for gamepadviewer. Please use the Xbox One controller template.
-The design has 4 basic colors of blue, pink, black and pro version.
+I made a custom controller layout for gamepadviewer. Please use the Xbox One controller template.
+The design has 4 basic colors of blue, pink, black and pro version. I will try to find time to make the Kingkong 2 Black and a white version (when Gulikit releases it)
+
+Credit to Monica from Gulikit for sending the vector file.
 
 
 ![Preview](https://atdsutm.github.io/Controller%20Preview.gif)
 
 
 
-How to use:
-1. Connect your controller and visit [Link](https://gamepadviewer.com/#).
-2. Activate your controller and press any key to, a drop down above should appear above and set it to "Xbox One and Player One"
-3. Once the controller appears, go to generate URL on the left side.
-
+### How to use:
+1. Connect your controller and visit [Gamepadviewer](https://gamepadviewer.com/#).
+2. Activate your controller and press any input and a drop down option should appear above. Set them it to "Xbox One and Player One". Playstation 4 can also be used.
+3. Once the controller appears, go to generate URL on the left side. 
+4. To apply the design. Place a custom css link of your choosing below and place the custom CSS URL. The custom design should override the previous controller, but you won't see it change here.
 
 Custom CSS links
 
 Black:
-
 ```markdown
 https://atdsutm.github.io/gulikit-kingkong-black/gulikitkkblk.css
 ```
 Blue:
-
 ```markdown
 https://atdsutm.github.io/gulikit-kingkong-blue/gulikitkkblue.css
 ```
 Pink:
-
 ```markdown
 https://atdsutm.github.io/gulikit-kingkong-pink/gulikitkkpink.css
 ```
 Pro:
-
 ```markdown
 https://atdsutm.github.io/gulikit-kingkong-pro/gulikitkkpro.css
 ```
-4. Place the custom css link on the empty space below to put the custom design. 
-5. Copy the new "generate link" afterwards and use it on OBS's "Browser Source" function.
+
+Black 2
+```markdown
+Coming soon...
+```
+
+White
+```markdown
+Coming soon...
+```
+
+5. After placing the custom css link, the new "generate link" should change. Use it on OBS's "Browser Source" function.
 
 
 ```markdown
