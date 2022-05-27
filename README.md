@@ -48,12 +48,10 @@ Pro:
 ```markdown
 https://atdsutm.github.io/gulikit-kingkong-pro/gulikitkkpro.css
 ```
-
 Black 2
 ```markdown
 Coming soon...
 ```
-
 White
 ```markdown
 Coming soon...
