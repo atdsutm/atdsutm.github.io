@@ -6,7 +6,7 @@ Here contains my work on any stream related content that I've made.
 
 ### GuliKit Kingkong Series
 
-I made a custom controller layout for gamepadviewer. Please use the Xbox One controller template.
+I made a custom controller layout for gamepadviewer. 
 The design has 4 basic colors of blue, pink, black and pro version. I will try to find time to make the new Regular Black 2, Pro 2 and a white version (when Gulikit releases it).
 
 Credits to Gulikit for sending the vector file.
