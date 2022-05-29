@@ -18,9 +18,16 @@ Credits to Gulikit for sending the vector file.
 ### How to use:
 1. Connect your controller and visit [Gamepadviewer](https://gamepadviewer.com/#).
 2. Activate your controller and press any input and a drop down option should appear above. Set them it to "Xbox One and Player One". Playstation 4 can also be used.
+![1](https://user-images.githubusercontent.com/102196195/170847066-2c7e35df-1c2c-45ee-85a4-dc4c5dc388cb.png)
+
 3. Once the controller appears, go to generate URL on the left side. 
+![2](https://user-images.githubusercontent.com/102196195/170847184-b453eb8b-e514-434d-a4aa-e7cd977f39e2.png)
+
 4. To apply the design. Place a custom css link of your choosing below and place the custom CSS URL. The custom design should override the previous controller, but you won't see it change here.
+![3](https://user-images.githubusercontent.com/102196195/170847190-1e6a7f89-0243-4a24-b318-b71277e03130.png)
+
 5. After placing the custom css link, the new "generate link" should change. Use it on OBS's "Browser Source" function.
+
 Custom CSS links
 
 Black:
