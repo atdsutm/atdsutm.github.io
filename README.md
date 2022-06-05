@@ -27,6 +27,7 @@ Credits to Gulikit for sending the vector file.
 ![3](https://user-images.githubusercontent.com/102196195/170847190-1e6a7f89-0243-4a24-b318-b71277e03130.png)
 
 5. After placing the custom css link, the new "generate link" should change. Use it on OBS's "Browser Source" function.
+![4](https://user-images.githubusercontent.com/102196195/172052066-d05a5fe4-2146-4065-b8f3-e38d19ec87ae.png)
 
 Custom CSS links
 
