@@ -65,7 +65,7 @@ https://atdsutm.github.io/gulikit-kingkong-zenproblue/gulikitzenproblue.css
 ```
 Zen Pro White
 ```markdown
-https://atdsutm.github.io/gulikit-kingkong-zenprowhite/gulikitzenprowhite.css
+https://atdsutm.github.io/gulikit-kingkong-zenprowhite/gulikitzenpro2white.css
 ```
 
 ## Visit me here:
