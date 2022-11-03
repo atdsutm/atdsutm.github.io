@@ -47,17 +47,25 @@ Pro:
 ```markdown
 https://atdsutm.github.io/gulikit-kingkong-pro/gulikitkkpro.css
 ```
-Pro 2
+Pro 2 / Zen Pro Black
 ```markdown
-Coming soon...
+https://atdsutm.github.io/gulikit-kingkong-pro2zenproblack/gulikitkkpro2.css
 ```
 Black 2
 ```markdown
-Coming soon...
+https://atdsutm.github.io/gulikit-kingkong-black2/gulikitkkblk2.css
 ```
 White
 ```markdown
-Coming soon...
+https://atdsutm.github.io/gulikit-kingkong-pro2white/gulikitkkprowhite.css
+```
+Zen Pro Blue
+```markdown
+https://atdsutm.github.io/gulikit-kingkong-zenproblue/gulikitzenproblue.css
+```
+Zen Pro White
+```markdown
+https://atdsutm.github.io/gulikit-kingkong-zenprowhite/gulikitzenprowhite.css
 ```
 
 ## Visit me here:
